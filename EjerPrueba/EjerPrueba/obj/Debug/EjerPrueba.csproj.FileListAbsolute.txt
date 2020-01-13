@@ -5,3 +5,10 @@ C:\Users\carlos.can\source\repos\EjerPrueba\EjerPrueba\obj\Debug\EjerPrueba.cspr
 C:\Users\carlos.can\source\repos\EjerPrueba\EjerPrueba\obj\Debug\EjerPrueba.csproj.CoreCompileInputs.cache
 C:\Users\carlos.can\source\repos\EjerPrueba\EjerPrueba\obj\Debug\EjerPrueba.exe
 C:\Users\carlos.can\source\repos\EjerPrueba\EjerPrueba\obj\Debug\EjerPrueba.pdb
+C:\Users\Carlos\Source\Repos\EjerPrueba\EjerPrueba\bin\Debug\EjerPrueba.exe.config
+C:\Users\Carlos\Source\Repos\EjerPrueba\EjerPrueba\bin\Debug\EjerPrueba.exe
+C:\Users\Carlos\Source\Repos\EjerPrueba\EjerPrueba\bin\Debug\EjerPrueba.pdb
+C:\Users\Carlos\Source\Repos\EjerPrueba\EjerPrueba\obj\Debug\EjerPrueba.csprojAssemblyReference.cache
+C:\Users\Carlos\Source\Repos\EjerPrueba\EjerPrueba\obj\Debug\EjerPrueba.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Source\Repos\EjerPrueba\EjerPrueba\obj\Debug\EjerPrueba.exe
+C:\Users\Carlos\Source\Repos\EjerPrueba\EjerPrueba\obj\Debug\EjerPrueba.pdb

@@ -43,13 +43,29 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Interfaces\IValidador.cs" />
+    <Compile Include="Interfaces\IRecuperadorDatos.cs" />
+    <Compile Include="Interfaces\IRecuperadorRuta.cs" />
+    <Compile Include="Interfaces\ISolicitaDatos.cs" />
+    <Compile Include="Interfaces\IValidadorHora.cs" />
+    <Compile Include="Interfaces\IValidadorMes.cs" />
+    <Compile Include="Interfaces\IValidadorMinutos.cs" />
+    <Compile Include="Interfaces\IValidadorDia.cs" />
+    <Compile Include="Interfaces\IVisualizamensaje.cs" />
+    <Compile Include="Presentacion\SolicitaDatos.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Validador.cs" />
+    <Compile Include="Controlador\Validador.cs" />
+    <Compile Include="Validadores\RecuperadorDatos.cs" />
+    <Compile Include="Validadores\RecuperadorRuta.cs" />
+    <Compile Include="Validadores\ValidadorHora.cs" />
+    <Compile Include="Validadores\ValidadorMinutos.cs" />
+    <Compile Include="Validadores\ValidadorDia.cs" />
+    <Compile Include="Validadores\ValidadorMes.cs" />
+    <Compile Include="Presentacion\VisualizarMensaje.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
